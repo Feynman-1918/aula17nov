@@ -6,7 +6,7 @@ body{
     background-color: gold;
 
 }
-.cabecalho{
+.cabecalho{/*classe do header*/
     background-color: #51025a;
     color:white;
     display: flex;
